@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DF40HC_4.0_-60DS-0.4V_51_)(type Legacy)(uri ${KIPRJMOD}/lib_sch/DF40HC_4.0_-60DS-0.4V_51_.lib)(options "")(descr ""))
+)
